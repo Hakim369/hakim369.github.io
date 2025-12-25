@@ -3,7 +3,7 @@ Copyright (c) 2025 Hakim Falul and Daemonlogic Pvt. Ltd.
 All rights reserved.
 
 This software, source code, documentation, and associated materials
-(the "Software") are protected by copyright law.
+(the "Software") are protected by applicable copyright laws.
 
 1. Grant of Rights (Non-Commercial Use)
 Permission is granted, free of charge, to use, copy, modify, and
@@ -49,8 +49,8 @@ commercial use of the Software, less only the following verifiable and
 reasonable expenses:
 
 (a) direct third-party costs required to deliver the product or service
-    incorporating the Software (including payment processing fees,
-    hosting, infrastructure, or distribution fees);
+    incorporating the Software, including payment processing fees,
+    hosting, infrastructure, or distribution fees;
 
 (b) sales taxes, value-added taxes, or similar government-imposed charges
     collected and remitted by the licensee.
@@ -59,31 +59,46 @@ No other deductions shall be permitted, including but not limited to
 salaries, marketing costs, overhead, research and development, internal
 administrative costs, depreciation, amortization, or opportunity costs.
 
-6. Ownership
+6. Audit Rights
+Upon reasonable written notice and no more than once per calendar year,
+Hakim Falul and/or Daemonlogic Pvt. Ltd. may request a written statement
+from any commercial licensee detailing the gross revenue, permitted
+deductions, and resulting Net Profits derived from the commercial use
+of the Software.
+
+Any review or audit shall be limited to records reasonably necessary
+to verify royalty calculations and shall not unreasonably interfere
+with the licensee’s business operations.
+
+If an audit reveals an underpayment of more than five percent (5%) of
+royalties owed, the licensee shall be responsible for reasonable audit
+costs.
+
+7. Ownership
 All intellectual property rights in the Software remain the exclusive
 property of Hakim Falul and Daemonlogic Pvt. Ltd. This license does not
 transfer ownership.
 
-7. No Warranty
+8. No Warranty
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS
 OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
 MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND
 NON-INFRINGEMENT.
 
-8. Limitation of Liability
+9. Limitation of Liability
 IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY
 CLAIM, DAMAGES, LOSSES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF
 CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION
 WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-9. Indemnification
+10. Indemnification
 Users agree that any liabilities, losses, damages, or claims arising
 from the use, modification, or distribution of the Software shall not
 be passed on to the author(s) or company.
 
-10. Governing Law
+11. Governing Law
 This license shall be governed and interpreted in accordance with the
 laws of the Democratic Socialist Republic of Sri Lanka.
 
 For commercial licensing inquiries, contact:
-[HakimAFalul@gmail.com]
+HakimAFalul@gmail.com
